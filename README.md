@@ -10,7 +10,7 @@
 
 ###
 
-<h5 data-importer="text" align="left">🚀 Current Focus<br>Automating network routing infrastructure with Python + Netmiko / Paramiko<br>Implementing infrastructure access control and security logic with Java & SQL<br>Deepening knowledge in Network Security, Cyber Defenses, and DevSecOps<br>Engineering scripts to audit firmware vulnerabilities and network device compliance</h5>
+<h5 data-importer="text" align="left">🚀 Current Focus<br>-Automating network routing -infrastructure with Python + Netmiko / Paramiko<br>-Implementing infrastructure access control and security logic with Java & SQL<br>-Deepening knowledge in Network Security, Cyber Defenses, and DevSecOps<br>-Engineering scripts to audit firmware vulnerabilities and network device compliance</h5>
 
 ###
 
