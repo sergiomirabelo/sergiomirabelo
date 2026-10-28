@@ -1,91 +1,43 @@
-<h1 align="center">
-Hi <img src="https://githubusercontent.com" width="30"/> I'm Sergio Mirabelo
-</h1>
+<h2 data-importer="text" align="center">Hi 👋 I'm Sergio Mirabelo</h2>
 
-<h3 align="center">NetDevOps & Network Security</h3>
+###
 
----
+<h4 data-importer="text" align="center">NetDevOps & Network Security</h4>
 
-## 💻 About Me
+###
 
-I am a **NetDevOps & DevSecOps Intern at Vivo (Telefônica Brasil)** and an IT student at **FIAP**. My focus is entirely positioned at the intersection of network infrastructure, automated workflows, and cybersecurity, building secure pipelines to orchestrate and protect critical enterprise environments.
+<h5 data-importer="text" align="left">💻 About Me<br><br>I am a NetDevOps & DevSecOps Intern at Vivo (Telefônica Brasil) and an IT student at FIAP. My focus is entirely positioned at the intersection of network infrastructure, automated workflows, and cybersecurity, building secure pipelines to orchestrate and protect critical enterprise environments.<br><br>I specialize in Network Automation (NetDevOps), designing efficient scripts and solutions using Python, Netmiko, and Paramiko to automate large-scale routing architectures and core transport infrastructure without manual intervention.<br><br>On the security side, I work with DevSecOps and Network Security principles, implementing strict access control tracking, infrastructure compliance, and secure data persistence using Java and SQL. I focus on writing secure code to manage network devices, audit vulnerabilities, and mitigate infrastructure risks at scale.<br><br>What motivates me most in tech is hardening infrastructure security, eliminating manual network operations through automation, and architecting highly secure, automated systems.</h5>
 
-I specialize in **Network Automation (NetDevOps)**, designing efficient scripts and solutions using **Python, Netmiko, and Paramiko** to automate large-scale routing architectures and core transport infrastructure without manual intervention.
+###
 
-On the security side, I work with **DevSecOps and Network Security** principles, implementing strict access control tracking, infrastructure compliance, and secure data persistence using **Java and SQL**. I focus on writing secure code to manage network devices, audit vulnerabilities, and mitigate infrastructure risks at scale.
+<p data-importer="text" align="left">🚀 Current Focus<br>Automating network routing infrastructure with Python + Netmiko / Paramiko<br>Implementing infrastructure access control and security logic with Java & SQL<br>Deepening knowledge in Network Security, Cyber Defenses, and DevSecOps<br>Engineering scripts to audit firmware vulnerabilities and network device compliance</p>
 
-What motivates me most in tech is **hardening infrastructure security, eliminating manual network operations through automation, and architecting highly secure, automated systems.**
+###
 
----
+<h3 data-importer="text" align="left">Stacks</h3>
 
-## 🚀 Current Focus
+###
 
-- Automating network routing infrastructure with **Python + Netmiko / Paramiko**
-- Implementing infrastructure access control and security logic with **Java & SQL**
-- Deepening knowledge in **Network Security, Cyber Defenses, and DevSecOps**
-- Engineering scripts to audit firmware vulnerabilities and network device compliance
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
 
----
-
-## 🌎 Info
-
-- 🌍 I'm based in **São Paulo, Brazil**
-- ✉️ Contact me at **[sergiojrmirabelo@gmail.com](mailto:sergiojrmirabelo@gmail.com)**
-- 👥 Looking to collaborate on **NetDevOps automation pipelines, Cyber Security frameworks, and Infrastructure auditing tools**
-- 💬 Ask me about **automating enterprise routing, firewalls, and securing network infrastructure via code**
-
----
-
-# 🛠️ Tech Stack
-
-<p align="left">
-<a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-<a href="https://oracle.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-<a href="https://postgresql.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-<a href="https://mysql.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-<a href="https://linux.org" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-<a href="https://visualstudio.com" target="_blank" rel="noreferrer"><img src="https://githubusercontent.com" width="36" height="36"/></a>
-</p>
-
----
-
-# 🌐 Socials
-
-<p align="left">
-<a href="https://github.com" target="_blank">
-<img src="https://githubusercontent.com" width="32" height="32"/>
-</a>
-
-<a href="https://linkedin.com" target="_blank">
-<img src="https://githubusercontent.com" width="32" height="32"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<a href="http://github.com">
-<img src="https://vercel.app"/>
-</a>
-
-<br>
-
-<a href="http://github.com">
-<img src="https://herokuapp.com"/>
-</a>
-
-<br>
-
-<a href="https://github.com">
-<img src="https://vercel.app"/>
-</a>
-
-<br>
-
-<p align="left">
-  <a href="https://github.com">
-    <img src="https://vercel.app" />
-  </a>
-</p>
+###
