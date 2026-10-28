@@ -10,11 +10,11 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 Current Focus<br>Automating network routing infrastructure with Python + Netmiko / Paramiko<br>Implementing infrastructure access control and security logic with Java & SQL<br>Deepening knowledge in Network Security, Cyber Defenses, and DevSecOps<br>Engineering scripts to audit firmware vulnerabilities and network device compliance</p>
+<h5 data-importer="text" align="left">🚀 Current Focus<br>Automating network routing infrastructure with Python + Netmiko / Paramiko<br>Implementing infrastructure access control and security logic with Java & SQL<br>Deepening knowledge in Network Security, Cyber Defenses, and DevSecOps<br>Engineering scripts to audit firmware vulnerabilities and network device compliance</h5>
 
 ###
 
-<h3 data-importer="text" align="left">Stacks</h3>
+<h3 data-importer="text" align="left">🛠️Stacks</h3>
 
 ###
 
@@ -42,10 +42,7 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/sergiomirabelo/sergiomirabelo/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/sergiomirabelo/sergiomirabelo/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<h3 data-importer="text" align="left">🌐Connect with me</h3>
 
 ###
 
